@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cOd9xZ3DDmdF2I1NxgFkBFQOOtc1g6LlRHi6b2AXo44IO02Zvfy2UjFzjlhtKSRWkKJRatyNQXXPVjTzeBvhgA==",
+  "success": true,
+  "projectFilePath": "E:\\BOBO\\C#\\FindIfPathExists\\FindIfPathExists.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bmile\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
